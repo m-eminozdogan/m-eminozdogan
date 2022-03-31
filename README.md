@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M Emin ÖZDOĞAN.</h1>
+<h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">A passionate frontend developer from somewhere :)</h3>
 
 - 🌱 I’m currently learning **ReactJS**
