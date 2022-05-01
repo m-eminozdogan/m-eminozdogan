@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **m.eminozdogan@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ktqg7se5kkPIONOzucO7S9ymVOF9Oin-/view?usp=sharing](https://drive.google.com/file/d/1Ktqg7se5kkPIONOzucO7S9ymVOF9Oin-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1T3cSW9NjEv6xBr0T5Hs9nUa5u5OY17Z8/view?usp=sharing](https://drive.google.com/file/d/1T3cSW9NjEv6xBr0T5Hs9nUa5u5OY17Z8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
