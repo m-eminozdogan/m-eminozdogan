@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **m.eminozdogan@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T3cSW9NjEv6xBr0T5Hs9nUa5u5OY17Z8/view?usp=sharing](https://drive.google.com/file/d/1T3cSW9NjEv6xBr0T5Hs9nUa5u5OY17Z8/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/meminozdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meminozdogan" height="30" width="40" /></a>
