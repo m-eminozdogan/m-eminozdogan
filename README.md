@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 🤝 I’m looking for help with **job opportunities.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/m-eminozdogan?tab=repositories](https://github.com/m-eminozdogan?tab=repositories)
 
 - 📫 How to reach me **m.eminozdogan@hotmail.com**
